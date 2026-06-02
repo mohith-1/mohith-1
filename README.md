@@ -125,5 +125,5 @@ I'm a **Software & AI Engineer** with a Master's in Computer Science, building p
 I'm open to **full-time and contract roles** in Software Engineering, AI/ML Engineering, or Backend Systems.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohithkovvuri1)
-- 🌐 [Portfolio](https://mohithdev.netlify.app/)
+- 🌐 [Portfolio]([https://mohithdev.netlify.app/](https://mohithk.netlify.app/))
 - 📧 mohithkovvuri92@gmail.com
