@@ -4,9 +4,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohithkovvuri1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithkovvuri1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohithdev.netlify.app-FF5722?style=flat&logo=firefox&logoColor=white)](https://mohithdev.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-kovvurimohith@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kovvurimohith@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohithkovvuri92@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohithkovvuri92@gmail.com)
 ![Location](https://img.shields.io/badge/📍-United_States-lightgrey?style=flat)
-![Open to Work](https://img.shields.io/badge/Open_to-Full--Time_Roles-28a745?style=flat)
+![Open to Work](https://img.shields.io/badge/Open_to-Full--Time_%26_Contract_Roles-28a745?style=flat)
 
 ---
 
@@ -54,10 +54,10 @@ I'm a **Software & AI Engineer** with a Master's in Computer Science, building p
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Personal Projects
 
-### 🌐 [Novex](https://novexhub.netlify.app/)
-> AI-powered hub — live and production-ready
+### 🌐 [Novex](https://novexhub.netlify.app/) — *Live*
+> AI-powered hub — production-deployed
 
 A full-stack intelligent platform showcasing LLM integration, modern UI, and cloud deployment.
 
@@ -65,8 +65,8 @@ A full-stack intelligent platform showcasing LLM integration, modern UI, and clo
 
 ---
 
-### 🗺️ [GeoForge](https://huggingface.co/spaces/Moe32/Geoforge)
-> Geospatial AI tool deployed on Hugging Face Spaces
+### 🗺️ [GeoForge](https://huggingface.co/spaces/Moe32/Geoforge) — *Live on Hugging Face Spaces*
+> Geospatial AI tool
 
 Leverages machine learning and geospatial data to deliver intelligent geographic analysis and visualization.
 
@@ -74,37 +74,36 @@ Leverages machine learning and geospatial data to deliver intelligent geographic
 
 ---
 
-### 🏥 Healthcare Risk Prediction Pipeline *(@ Johnson & Johnson)*
-> Enterprise ML pipeline for patient risk scoring
+## 💼 Work Experience
 
-Built with Azure ML and PySpark, integrating transformer-based NLP models to extract insights from unstructured medical records — improving clinical decision-making across distributed healthcare systems.
+### Johnson & Johnson — *Software Engineer* · Jan 2023 – Jul 2024
 
-`PySpark` · `Azure ML` · `Spring Boot` · `Kafka` · `HIPAA-compliant`
+- Designed scalable backend services and RESTful APIs using **Java & Spring Boot** in a microservices architecture for distributed healthcare systems
+- Built predictive healthcare models with **Python & Scikit-learn** (ensemble methods) for patient risk identification
+- Engineered ML pipelines using **Azure ML & PySpark**; developed transformer-based NLP models to extract insights from unstructured medical records
+- Implemented async, fault-tolerant messaging with **Apache Kafka** and Resilience4j (circuit breakers, timeouts, fallbacks)
+- Detected PHI across ~15 services, applied **Spring Security**, and built anomaly detection systems aligned with **HIPAA** standards
+- Maintained quality via **JUnit/Mockito**, SonarQube scanning, and CI/CD pipelines on **Jenkins**, deploying to Kubernetes & OpenShift
+
+`Java` · `Spring Boot` · `PySpark` · `Azure ML` · `Kafka` · `Kubernetes` · `HIPAA`
 
 ---
 
-### 📡 Smarts Plus — Network Monitoring Tool *(@ Wipro)*
-> Real-time network device monitoring & alarm system
+### Wipro — *Software Engineer Intern* · Mar 2022 – Dec 2022
 
-Full-stack Agile project: Java/Spring Boot REST APIs for alarm management, Kafka for async messaging, React SPA frontend, and JUnit test coverage.
+- Built **Smarts Plus** — a real-time network device monitoring tool that raises alarms for infrastructure issues
+- Developed RESTful APIs with **Java & Spring Boot** for alarm processing, subscription management, and auto-ticketing
+- Configured **Kafka** producers, consumers, and brokers for async messaging
+- Used **ThreadPoolExecutor** for concurrent request handling; built the frontend as a **React SPA**
 
 `Java` · `Spring Boot` · `Kafka` · `React` · `JUnit`
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohithKovvuri&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohithKovvuri&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
-I'm open to full-time roles in **Software Engineering**, **AI/ML Engineering**, or **Backend Systems**.
+I'm open to **full-time and contract roles** in Software Engineering, AI/ML Engineering, or Backend Systems.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohithkovvuri1)
 - 🌐 [Portfolio](https://mohithdev.netlify.app/)
-- 📧 kovvurimohith@gmail.com
+- 📧 mohithkovvuri92@gmail.com
