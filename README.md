@@ -30,19 +30,29 @@ I'm a **Software & AI Engineer** with a Master's in Computer Science, building p
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat&logo=openai&logoColor=white)
+![T5](https://img.shields.io/badge/T5-FF6F00?style=flat&logo=google&logoColor=white)
+![AWS SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-6A0DAD?style=flat&logo=pinecone&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-blue?style=flat&logo=python&logoColor=white)
 
 **Backend & APIs**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=flat&logo=azuredevops&logoColor=white)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-6DB33F?style=flat&logo=java&logoColor=white)
 
 **Data Engineering**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -50,25 +60,35 @@ I'm a **Software & AI Engineer** with a Master's in Computer Science, building p
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Testing & Quality**
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=flat&logo=java&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
 
 ---
 
 ## 🔥 Personal Projects
 
-### 🌐 [Novex](https://novexhub.netlify.app/) — *Live*
-> AI-powered hub — production-deployed
+### 🌐 Novex — Multi-Model AI Prompt Broadcaster
 
-A full-stack intelligent platform showcasing LLM integration, modern UI, and cloud deployment.
+> Type one prompt, send it to all your AI models simultaneously — then compare answers side by side.
+
+[![Novex Live Demo](https://api.microlink.io/?url=https://novexhub.netlify.app&screenshot=true&meta=false&embed=screenshot.url)](https://novexhub.netlify.app/)
 
 `LLMs` · `FastAPI` · `React` · `AWS` · `Netlify`
 
 ---
 
-### 🗺️ [GeoForge](https://huggingface.co/spaces/Moe32/Geoforge) — *Live on Hugging Face Spaces*
-> Geospatial AI tool
+### 🗺️ GeoForge — Geospatial AI Tool
 
-Leverages machine learning and geospatial data to deliver intelligent geographic analysis and visualization.
+> Leverages machine learning and geospatial data to deliver intelligent geographic analysis and visualization.
+
+[![GeoForge Live Demo](https://api.microlink.io/?url=https://huggingface.co/spaces/Moe32/Geoforge&screenshot=true&meta=false&embed=screenshot.url)](https://huggingface.co/spaces/Moe32/Geoforge)
 
 `Python` · `ML` · `Hugging Face` · `Gradio`
 
@@ -76,27 +96,27 @@ Leverages machine learning and geospatial data to deliver intelligent geographic
 
 ## 💼 Work Experience
 
-### Johnson & Johnson — *Software Engineer* · Jan 2023 – Jul 2024
+### Johnson & Johnson — *Software Engineer*
 
 - Designed scalable backend services and RESTful APIs using **Java & Spring Boot** in a microservices architecture for distributed healthcare systems
 - Built predictive healthcare models with **Python & Scikit-learn** (ensemble methods) for patient risk identification
 - Engineered ML pipelines using **Azure ML & PySpark**; developed transformer-based NLP models to extract insights from unstructured medical records
-- Implemented async, fault-tolerant messaging with **Apache Kafka** and Resilience4j (circuit breakers, timeouts, fallbacks)
+- Implemented async, fault-tolerant messaging with **Apache Kafka** and **Resilience4j** (circuit breakers, timeouts, fallbacks)
 - Detected PHI across ~15 services, applied **Spring Security**, and built anomaly detection systems aligned with **HIPAA** standards
-- Maintained quality via **JUnit/Mockito**, SonarQube scanning, and CI/CD pipelines on **Jenkins**, deploying to Kubernetes & OpenShift
+- Maintained quality via **JUnit/Mockito**, SonarQube scanning, and CI/CD pipelines on **Jenkins**, deploying to **Kubernetes & OpenShift**
 
-`Java` · `Spring Boot` · `PySpark` · `Azure ML` · `Kafka` · `Kubernetes` · `HIPAA`
+`Java` · `Spring Boot` · `Spring Security` · `PySpark` · `Azure ML` · `Kafka` · `Resilience4j` · `Kubernetes` · `OpenShift` · `Jenkins`
 
 ---
 
-### Wipro — *Software Engineer Intern* · Mar 2022 – Dec 2022
+### Wipro — *Software Engineer Intern*
 
 - Built **Smarts Plus** — a real-time network device monitoring tool that raises alarms for infrastructure issues
 - Developed RESTful APIs with **Java & Spring Boot** for alarm processing, subscription management, and auto-ticketing
-- Configured **Kafka** producers, consumers, and brokers for async messaging
-- Used **ThreadPoolExecutor** for concurrent request handling; built the frontend as a **React SPA**
+- Configured **Kafka** producers, consumers, and brokers for async messaging; used **ThreadPoolExecutor** for concurrent request handling
+- Built the frontend as a **React SPA**; maintained code quality with **JUnit & Mockito**
 
-`Java` · `Spring Boot` · `Kafka` · `React` · `JUnit`
+`Java` · `Spring Boot` · `Kafka` · `React` · `JUnit` · `Mockito`
 
 ---
 
