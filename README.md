@@ -3,7 +3,7 @@
 **Software & AI Engineer** · GenAI · RAG Pipelines · LLMs · LangChain · Microservices · Azure · AWS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohithkovvuri1-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohithkovvuri1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohithdev.netlify.app-FF5722?style=flat&logo=firefox&logoColor=white)](https://mohithdev.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohithdev.netlify.app-FF5722?style=flat&logo=firefox&logoColor=white)](https://mohithk.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-mohithkovvuri92@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohithkovvuri92@gmail.com)
 ![Location](https://img.shields.io/badge/📍-United_States-lightgrey?style=flat)
 ![Open to Work](https://img.shields.io/badge/Open_to-Full--Time_%26_Contract_Roles-28a745?style=flat)
