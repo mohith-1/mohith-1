@@ -144,6 +144,8 @@ I'm a **Full Stack & AI Engineer** with **3+ years of experience** and a Master'
 
 > A multithreaded TCP chat with live typing indicators and voice-to-text — built with zero external dependencies beyond JDK 17.
 
+![Java Chat Demo](assets/java-chat-demo.png)
+
 - 🧵 Multithreaded TCP relay server with a dedicated thread per client, broadcasting a 5-event plain-text protocol (JOIN, MSG, TYPING, STOP_TYPING, LEFT) with zero missed messages
 - ⌨️ Dual-signal protocol with live typing indicator (1.2s cooldown per keystroke, capping traffic at 1 event per typing burst) and a message-integrity badge
 - 🎙️ Zero-library voice input pipeline: local WAV recording via `javax.sound.sampled`, transcription through OpenAI Whisper over raw `HttpURLConnection`
